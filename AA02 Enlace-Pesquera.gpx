@@ -1,0 +1,1080 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd http://www.topografix.com/GPX/gpx_style/0/2 http://www.topografix.com/GPX/gpx_style/0/2/gpx_style.xsd" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpx_style="http://www.topografix.com/GPX/gpx_style/0/2" version="1.1" creator="https://gpx.studio">
+<metadata>
+    <name>Enlace-Pesquera</name>
+    <author>
+        <name>gpx.studio</name>
+        <link href="https://gpx.studio"></link>
+    </author>
+</metadata>
+<trk>
+    <name>Enlace-Pesquera</name>
+    <type>Cycling</type>
+    <trkseg>
+    <trkpt lat="42.799415" lon="-3.720992">
+        <ele>666.0</ele>
+    </trkpt>
+    <trkpt lat="42.799324" lon="-3.720654">
+        <ele>666.8</ele>
+        <extensions>
+        <gpxtpx:TrackPointExtension>
+        <gpxtpx:Extensions>
+            <surface>asphalt</surface>
+        </gpxtpx:Extensions>
+        </gpxtpx:TrackPointExtension>
+        </extensions>
+    </trkpt>
+    <trkpt lat="42.799445" lon="-3.72059">
+        <ele>664.8</ele>
+        <extensions>
+        <gpxtpx:TrackPointExtension>
+        <gpxtpx:Extensions>
+            <surface>asphalt</surface>
+        </gpxtpx:Extensions>
+        </gpxtpx:TrackPointExtension>
+        </extensions>
+    </trkpt>
+    <trkpt lat="42.79969" lon="-3.720516">
+        <ele>660.8</ele>
+        <extensions>
+        <gpxtpx:TrackPointExtension>
+        <gpxtpx:Extensions>
+            <surface>asphalt</surface>
+        </gpxtpx:Extensions>
+        </gpxtpx:TrackPointExtension>
+        </extensions>
+    </trkpt>
+    <trkpt lat="42.799827" lon="-3.720487">
+        <ele>658.5</ele>
+        <extensions>
+        <gpxtpx:TrackPointExtension>
+        <gpxtpx:Extensions>
+            <surface>asphalt</surface>
+        </gpxtpx:Extensions>
+        </gpxtpx:TrackPointExtension>
+        </extensions>
+    </trkpt>
+    <trkpt lat="42.799845" lon="-3.720483">
+        <ele>658.5</ele>
+        <extensions>
+        <gpxtpx:TrackPointExtension>
+        <gpxtpx:Extensions>
+            <surface>asphalt</surface>
+        </gpxtpx:Extensions>
+        </gpxtpx:TrackPointExtension>
+        </extensions>
+    </trkpt>
+    <trkpt lat="42.800112" lon="-3.720449">
+        <ele>655.0</ele>
+        <extensions>
+        <gpxtpx:TrackPointExtension>
+        <gpxtpx:Extensions>
+            <surface>asphalt</surface>
+        </gpxtpx:Extensions>
+        </gpxtpx:TrackPointExtension>
+        </extensions>
+    </trkpt>
+    <trkpt lat="42.800345" lon="-3.720411">
+        <ele>653.3</ele>
+        <extensions>
+        <gpxtpx:TrackPointExtension>
+        <gpxtpx:Extensions>
+            <surface>asphalt</surface>
+        </gpxtpx:Extensions>
+        </gpxtpx:TrackPointExtension>
+        </extensions>
+    </trkpt>
+    <trkpt lat="42.800752" lon="-3.720376">
+        <ele>650.0</ele>
+        <extensions>
+        <gpxtpx:TrackPointExtension>
+        <gpxtpx:Extensions>
+            <surface>asphalt</surface>
+        </gpxtpx:Extensions>
+        </gpxtpx:TrackPointExtension>
+        </extensions>
+    </trkpt>
+    <trkpt lat="42.800949" lon="-3.720373">
+        <ele>649.0</ele>
+        <extensions>
+        <gpxtpx:TrackPointExtension>
+        <gpxtpx:Extensions>
+            <surface>asphalt</surface>
+        </gpxtpx:Extensions>
+        </gpxtpx:TrackPointExtension>
+        </extensions>
+    </trkpt>
+    <trkpt lat="42.801065" lon="-3.720347">
+        <ele>648.5</ele>
+        <extensions>
+        <gpxtpx:TrackPointExtension>
+        <gpxtpx:Extensions>
+            <surface>asphalt</surface>
+        </gpxtpx:Extensions>
+        </gpxtpx:TrackPointExtension>
+        </extensions>
+    </trkpt>
+    <trkpt lat="42.801355" lon="-3.720345">
+        <ele>647.0</ele>
+        <extensions>
+        <gpxtpx:TrackPointExtension>
+        <gpxtpx:Extensions>
+            <surface>asphalt</surface>
+        </gpxtpx:Extensions>
+        </gpxtpx:TrackPointExtension>
+        </extensions>
+    </trkpt>
+    <trkpt lat="42.801407" lon="-3.720343">
+        <ele>646.8</ele>
+        <extensions>
+        <gpxtpx:TrackPointExtension>
+        <gpxtpx:Extensions>
+            <surface>asphalt</surface>
+        </gpxtpx:Extensions>
+        </gpxtpx:TrackPointExtension>
+        </extensions>
+    </trkpt>
+    <trkpt lat="42.801434" lon="-3.720358">
+        <ele>646.8</ele>
+        <extensions>
+        <gpxtpx:TrackPointExtension>
+        <gpxtpx:Extensions>
+            <surface>asphalt</surface>
+        </gpxtpx:Extensions>
+        </gpxtpx:TrackPointExtension>
+        </extensions>
+    </trkpt>
+    <trkpt lat="42.801443" lon="-3.720373">
+        <ele>646.5</ele>
+        <extensions>
+        <gpxtpx:TrackPointExtension>
+        <gpxtpx:Extensions>
+            <surface>asphalt</surface>
+        </gpxtpx:Extensions>
+        </gpxtpx:TrackPointExtension>
+        </extensions>
+    </trkpt>
+    <trkpt lat="42.801456" lon="-3.720408">
+        <ele>646.5</ele>
+        <extensions>
+        <gpxtpx:TrackPointExtension>
+        <gpxtpx:Extensions>
+            <surface>asphalt</surface>
+        </gpxtpx:Extensions>
+        </gpxtpx:TrackPointExtension>
+        </extensions>
+    </trkpt>
+    <trkpt lat="42.801451" lon="-3.720506">
+        <ele>646.3</ele>
+        <extensions>
+        <gpxtpx:TrackPointExtension>
+        <gpxtpx:Extensions>
+            <surface>asphalt</surface>
+        </gpxtpx:Extensions>
+        </gpxtpx:TrackPointExtension>
+        </extensions>
+    </trkpt>
+    <trkpt lat="42.801433" lon="-3.720648">
+        <ele>645.8</ele>
+        <extensions>
+        <gpxtpx:TrackPointExtension>
+        <gpxtpx:Extensions>
+            <surface>asphalt</surface>
+        </gpxtpx:Extensions>
+        </gpxtpx:TrackPointExtension>
+        </extensions>
+    </trkpt>
+    <trkpt lat="42.801388" lon="-3.720894">
+        <ele>645.3</ele>
+        <extensions>
+        <gpxtpx:TrackPointExtension>
+        <gpxtpx:Extensions>
+            <surface>asphalt</surface>
+        </gpxtpx:Extensions>
+        </gpxtpx:TrackPointExtension>
+        </extensions>
+    </trkpt>
+    <trkpt lat="42.801354" lon="-3.721025">
+        <ele>644.8</ele>
+        <extensions>
+        <gpxtpx:TrackPointExtension>
+        <gpxtpx:Extensions>
+            <surface>asphalt</surface>
+        </gpxtpx:Extensions>
+        </gpxtpx:TrackPointExtension>
+        </extensions>
+    </trkpt>
+    <trkpt lat="42.801283" lon="-3.721236">
+        <ele>644.0</ele>
+        <extensions>
+        <gpxtpx:TrackPointExtension>
+        <gpxtpx:Extensions>
+            <surface>asphalt</surface>
+        </gpxtpx:Extensions>
+        </gpxtpx:TrackPointExtension>
+        </extensions>
+    </trkpt>
+    <trkpt lat="42.801234" lon="-3.721408">
+        <ele>643.5</ele>
+        <extensions>
+        <gpxtpx:TrackPointExtension>
+        <gpxtpx:Extensions>
+            <surface>asphalt</surface>
+        </gpxtpx:Extensions>
+        </gpxtpx:TrackPointExtension>
+        </extensions>
+    </trkpt>
+    <trkpt lat="42.8012" lon="-3.721562">
+        <ele>643.0</ele>
+        <extensions>
+        <gpxtpx:TrackPointExtension>
+        <gpxtpx:Extensions>
+            <surface>asphalt</surface>
+        </gpxtpx:Extensions>
+        </gpxtpx:TrackPointExtension>
+        </extensions>
+    </trkpt>
+    <trkpt lat="42.801197" lon="-3.72162">
+        <ele>642.5</ele>
+        <extensions>
+        <gpxtpx:TrackPointExtension>
+        <gpxtpx:Extensions>
+            <surface>asphalt</surface>
+        </gpxtpx:Extensions>
+        </gpxtpx:TrackPointExtension>
+        </extensions>
+    </trkpt>
+    <trkpt lat="42.801202" lon="-3.72168">
+        <ele>642.3</ele>
+        <extensions>
+        <gpxtpx:TrackPointExtension>
+        <gpxtpx:Extensions>
+            <surface>asphalt</surface>
+        </gpxtpx:Extensions>
+        </gpxtpx:TrackPointExtension>
+        </extensions>
+    </trkpt>
+    <trkpt lat="42.801209" lon="-3.721739">
+        <ele>642.0</ele>
+        <extensions>
+        <gpxtpx:TrackPointExtension>
+        <gpxtpx:Extensions>
+            <surface>asphalt</surface>
+        </gpxtpx:Extensions>
+        </gpxtpx:TrackPointExtension>
+        </extensions>
+    </trkpt>
+    <trkpt lat="42.801227" lon="-3.721779">
+        <ele>641.8</ele>
+        <extensions>
+        <gpxtpx:TrackPointExtension>
+        <gpxtpx:Extensions>
+            <surface>asphalt</surface>
+        </gpxtpx:Extensions>
+        </gpxtpx:TrackPointExtension>
+        </extensions>
+    </trkpt>
+    <trkpt lat="42.801252" lon="-3.721815">
+        <ele>641.5</ele>
+        <extensions>
+        <gpxtpx:TrackPointExtension>
+        <gpxtpx:Extensions>
+            <surface>asphalt</surface>
+        </gpxtpx:Extensions>
+        </gpxtpx:TrackPointExtension>
+        </extensions>
+    </trkpt>
+    <trkpt lat="42.801282" lon="-3.721833">
+        <ele>641.0</ele>
+        <extensions>
+        <gpxtpx:TrackPointExtension>
+        <gpxtpx:Extensions>
+            <surface>asphalt</surface>
+        </gpxtpx:Extensions>
+        </gpxtpx:TrackPointExtension>
+        </extensions>
+    </trkpt>
+    <trkpt lat="42.801322" lon="-3.721842">
+        <ele>640.5</ele>
+        <extensions>
+        <gpxtpx:TrackPointExtension>
+        <gpxtpx:Extensions>
+            <surface>asphalt</surface>
+        </gpxtpx:Extensions>
+        </gpxtpx:TrackPointExtension>
+        </extensions>
+    </trkpt>
+    <trkpt lat="42.801366" lon="-3.721839">
+        <ele>640.0</ele>
+        <extensions>
+        <gpxtpx:TrackPointExtension>
+        <gpxtpx:Extensions>
+            <surface>asphalt</surface>
+        </gpxtpx:Extensions>
+        </gpxtpx:TrackPointExtension>
+        </extensions>
+    </trkpt>
+    <trkpt lat="42.801459" lon="-3.721802">
+        <ele>639.3</ele>
+        <extensions>
+        <gpxtpx:TrackPointExtension>
+        <gpxtpx:Extensions>
+            <surface>asphalt</surface>
+        </gpxtpx:Extensions>
+        </gpxtpx:TrackPointExtension>
+        </extensions>
+    </trkpt>
+    <trkpt lat="42.801581" lon="-3.721761">
+        <ele>638.0</ele>
+        <extensions>
+        <gpxtpx:TrackPointExtension>
+        <gpxtpx:Extensions>
+            <surface>asphalt</surface>
+        </gpxtpx:Extensions>
+        </gpxtpx:TrackPointExtension>
+        </extensions>
+    </trkpt>
+    <trkpt lat="42.80168" lon="-3.721737">
+        <ele>637.3</ele>
+        <extensions>
+        <gpxtpx:TrackPointExtension>
+        <gpxtpx:Extensions>
+            <surface>asphalt</surface>
+        </gpxtpx:Extensions>
+        </gpxtpx:TrackPointExtension>
+        </extensions>
+    </trkpt>
+    <trkpt lat="42.801709" lon="-3.721737">
+        <ele>637.3</ele>
+        <extensions>
+        <gpxtpx:TrackPointExtension>
+        <gpxtpx:Extensions>
+            <surface>asphalt</surface>
+        </gpxtpx:Extensions>
+        </gpxtpx:TrackPointExtension>
+        </extensions>
+    </trkpt>
+    <trkpt lat="42.801755" lon="-3.721761">
+        <ele>636.8</ele>
+        <extensions>
+        <gpxtpx:TrackPointExtension>
+        <gpxtpx:Extensions>
+            <surface>asphalt</surface>
+        </gpxtpx:Extensions>
+        </gpxtpx:TrackPointExtension>
+        </extensions>
+    </trkpt>
+    <trkpt lat="42.802067" lon="-3.722268">
+        <ele>636.3</ele>
+        <extensions>
+        <gpxtpx:TrackPointExtension>
+        <gpxtpx:Extensions>
+            <surface>asphalt</surface>
+        </gpxtpx:Extensions>
+        </gpxtpx:TrackPointExtension>
+        </extensions>
+    </trkpt>
+    <trkpt lat="42.802117" lon="-3.722301">
+        <ele>636.8</ele>
+        <extensions>
+        <gpxtpx:TrackPointExtension>
+        <gpxtpx:Extensions>
+            <surface>asphalt</surface>
+        </gpxtpx:Extensions>
+        </gpxtpx:TrackPointExtension>
+        </extensions>
+    </trkpt>
+    <trkpt lat="42.802169" lon="-3.722317">
+        <ele>637.0</ele>
+        <extensions>
+        <gpxtpx:TrackPointExtension>
+        <gpxtpx:Extensions>
+            <surface>asphalt</surface>
+        </gpxtpx:Extensions>
+        </gpxtpx:TrackPointExtension>
+        </extensions>
+    </trkpt>
+    <trkpt lat="42.802253" lon="-3.722307">
+        <ele>637.8</ele>
+        <extensions>
+        <gpxtpx:TrackPointExtension>
+        <gpxtpx:Extensions>
+            <surface>asphalt</surface>
+        </gpxtpx:Extensions>
+        </gpxtpx:TrackPointExtension>
+        </extensions>
+    </trkpt>
+    <trkpt lat="42.802544" lon="-3.722134">
+        <ele>638.0</ele>
+        <extensions>
+        <gpxtpx:TrackPointExtension>
+        <gpxtpx:Extensions>
+            <surface>asphalt</surface>
+        </gpxtpx:Extensions>
+        </gpxtpx:TrackPointExtension>
+        </extensions>
+    </trkpt>
+    <trkpt lat="42.802801" lon="-3.722087">
+        <ele>640.0</ele>
+        <extensions>
+        <gpxtpx:TrackPointExtension>
+        <gpxtpx:Extensions>
+            <surface>asphalt</surface>
+        </gpxtpx:Extensions>
+        </gpxtpx:TrackPointExtension>
+        </extensions>
+    </trkpt>
+    <trkpt lat="42.80283" lon="-3.722081">
+        <ele>640.3</ele>
+        <extensions>
+        <gpxtpx:TrackPointExtension>
+        <gpxtpx:Extensions>
+            <surface>asphalt</surface>
+        </gpxtpx:Extensions>
+        </gpxtpx:TrackPointExtension>
+        </extensions>
+    </trkpt>
+    <trkpt lat="42.80297" lon="-3.722049">
+        <ele>641.3</ele>
+        <extensions>
+        <gpxtpx:TrackPointExtension>
+        <gpxtpx:Extensions>
+            <surface>asphalt</surface>
+        </gpxtpx:Extensions>
+        </gpxtpx:TrackPointExtension>
+        </extensions>
+    </trkpt>
+    <trkpt lat="42.8031" lon="-3.721986">
+        <ele>641.5</ele>
+        <extensions>
+        <gpxtpx:TrackPointExtension>
+        <gpxtpx:Extensions>
+            <surface>asphalt</surface>
+        </gpxtpx:Extensions>
+        </gpxtpx:TrackPointExtension>
+        </extensions>
+    </trkpt>
+    <trkpt lat="42.803675" lon="-3.721639">
+        <ele>643.8</ele>
+        <extensions>
+        <gpxtpx:TrackPointExtension>
+        <gpxtpx:Extensions>
+            <surface>asphalt</surface>
+        </gpxtpx:Extensions>
+        </gpxtpx:TrackPointExtension>
+        </extensions>
+    </trkpt>
+    <trkpt lat="42.803788" lon="-3.721524">
+        <ele>644.0</ele>
+        <extensions>
+        <gpxtpx:TrackPointExtension>
+        <gpxtpx:Extensions>
+            <surface>asphalt</surface>
+        </gpxtpx:Extensions>
+        </gpxtpx:TrackPointExtension>
+        </extensions>
+    </trkpt>
+    <trkpt lat="42.803942" lon="-3.721331">
+        <ele>643.8</ele>
+        <extensions>
+        <gpxtpx:TrackPointExtension>
+        <gpxtpx:Extensions>
+            <surface>asphalt</surface>
+        </gpxtpx:Extensions>
+        </gpxtpx:TrackPointExtension>
+        </extensions>
+    </trkpt>
+    <trkpt lat="42.804184" lon="-3.721082">
+        <ele>642.5</ele>
+        <extensions>
+        <gpxtpx:TrackPointExtension>
+        <gpxtpx:Extensions>
+            <surface>asphalt</surface>
+        </gpxtpx:Extensions>
+        </gpxtpx:TrackPointExtension>
+        </extensions>
+    </trkpt>
+    <trkpt lat="42.804539" lon="-3.720619">
+        <ele>642.8</ele>
+        <extensions>
+        <gpxtpx:TrackPointExtension>
+        <gpxtpx:Extensions>
+            <surface>asphalt</surface>
+        </gpxtpx:Extensions>
+        </gpxtpx:TrackPointExtension>
+        </extensions>
+    </trkpt>
+    <trkpt lat="42.804868" lon="-3.719807">
+        <ele>639.8</ele>
+        <extensions>
+        <gpxtpx:TrackPointExtension>
+        <gpxtpx:Extensions>
+            <surface>asphalt</surface>
+        </gpxtpx:Extensions>
+        </gpxtpx:TrackPointExtension>
+        </extensions>
+    </trkpt>
+    <trkpt lat="42.805092" lon="-3.719363">
+        <ele>638.3</ele>
+        <extensions>
+        <gpxtpx:TrackPointExtension>
+        <gpxtpx:Extensions>
+            <surface>asphalt</surface>
+        </gpxtpx:Extensions>
+        </gpxtpx:TrackPointExtension>
+        </extensions>
+    </trkpt>
+    <trkpt lat="42.805156" lon="-3.719174">
+        <ele>637.8</ele>
+        <extensions>
+        <gpxtpx:TrackPointExtension>
+        <gpxtpx:Extensions>
+            <surface>asphalt</surface>
+        </gpxtpx:Extensions>
+        </gpxtpx:TrackPointExtension>
+        </extensions>
+    </trkpt>
+    <trkpt lat="42.80521" lon="-3.718968">
+        <ele>638.0</ele>
+        <extensions>
+        <gpxtpx:TrackPointExtension>
+        <gpxtpx:Extensions>
+            <surface>asphalt</surface>
+        </gpxtpx:Extensions>
+        </gpxtpx:TrackPointExtension>
+        </extensions>
+    </trkpt>
+    <trkpt lat="42.805263" lon="-3.718674">
+        <ele>638.0</ele>
+        <extensions>
+        <gpxtpx:TrackPointExtension>
+        <gpxtpx:Extensions>
+            <surface>asphalt</surface>
+        </gpxtpx:Extensions>
+        </gpxtpx:TrackPointExtension>
+        </extensions>
+    </trkpt>
+    <trkpt lat="42.805295" lon="-3.718464">
+        <ele>638.0</ele>
+        <extensions>
+        <gpxtpx:TrackPointExtension>
+        <gpxtpx:Extensions>
+            <surface>asphalt</surface>
+        </gpxtpx:Extensions>
+        </gpxtpx:TrackPointExtension>
+        </extensions>
+    </trkpt>
+    <trkpt lat="42.805311" lon="-3.718244">
+        <ele>637.8</ele>
+        <extensions>
+        <gpxtpx:TrackPointExtension>
+        <gpxtpx:Extensions>
+            <surface>asphalt</surface>
+        </gpxtpx:Extensions>
+        </gpxtpx:TrackPointExtension>
+        </extensions>
+    </trkpt>
+    <trkpt lat="42.805263" lon="-3.717788">
+        <ele>637.0</ele>
+        <extensions>
+        <gpxtpx:TrackPointExtension>
+        <gpxtpx:Extensions>
+            <surface>asphalt</surface>
+        </gpxtpx:Extensions>
+        </gpxtpx:TrackPointExtension>
+        </extensions>
+    </trkpt>
+    <trkpt lat="42.805251" lon="-3.717481">
+        <ele>636.8</ele>
+        <extensions>
+        <gpxtpx:TrackPointExtension>
+        <gpxtpx:Extensions>
+            <surface>asphalt</surface>
+        </gpxtpx:Extensions>
+        </gpxtpx:TrackPointExtension>
+        </extensions>
+    </trkpt>
+    <trkpt lat="42.805259" lon="-3.717301">
+        <ele>638.0</ele>
+        <extensions>
+        <gpxtpx:TrackPointExtension>
+        <gpxtpx:Extensions>
+            <surface>asphalt</surface>
+        </gpxtpx:Extensions>
+        </gpxtpx:TrackPointExtension>
+        </extensions>
+    </trkpt>
+    <trkpt lat="42.805276" lon="-3.717168">
+        <ele>639.3</ele>
+        <extensions>
+        <gpxtpx:TrackPointExtension>
+        <gpxtpx:Extensions>
+            <surface>asphalt</surface>
+        </gpxtpx:Extensions>
+        </gpxtpx:TrackPointExtension>
+        </extensions>
+    </trkpt>
+    <trkpt lat="42.805324" lon="-3.716998">
+        <ele>641.5</ele>
+        <extensions>
+        <gpxtpx:TrackPointExtension>
+        <gpxtpx:Extensions>
+            <surface>asphalt</surface>
+        </gpxtpx:Extensions>
+        </gpxtpx:TrackPointExtension>
+        </extensions>
+    </trkpt>
+    <trkpt lat="42.805353" lon="-3.716839">
+        <ele>643.3</ele>
+        <extensions>
+        <gpxtpx:TrackPointExtension>
+        <gpxtpx:Extensions>
+            <surface>asphalt</surface>
+        </gpxtpx:Extensions>
+        </gpxtpx:TrackPointExtension>
+        </extensions>
+    </trkpt>
+    <trkpt lat="42.805355" lon="-3.716727">
+        <ele>644.0</ele>
+        <extensions>
+        <gpxtpx:TrackPointExtension>
+        <gpxtpx:Extensions>
+            <surface>asphalt</surface>
+        </gpxtpx:Extensions>
+        </gpxtpx:TrackPointExtension>
+        </extensions>
+    </trkpt>
+    <trkpt lat="42.805333" lon="-3.716572">
+        <ele>645.3</ele>
+        <extensions>
+        <gpxtpx:TrackPointExtension>
+        <gpxtpx:Extensions>
+            <surface>asphalt</surface>
+        </gpxtpx:Extensions>
+        </gpxtpx:TrackPointExtension>
+        </extensions>
+    </trkpt>
+    <trkpt lat="42.805285" lon="-3.716402">
+        <ele>646.3</ele>
+        <extensions>
+        <gpxtpx:TrackPointExtension>
+        <gpxtpx:Extensions>
+            <surface>asphalt</surface>
+        </gpxtpx:Extensions>
+        </gpxtpx:TrackPointExtension>
+        </extensions>
+    </trkpt>
+    <trkpt lat="42.805019" lon="-3.715682">
+        <ele>645.8</ele>
+        <extensions>
+        <gpxtpx:TrackPointExtension>
+        <gpxtpx:Extensions>
+            <surface>asphalt</surface>
+        </gpxtpx:Extensions>
+        </gpxtpx:TrackPointExtension>
+        </extensions>
+    </trkpt>
+    <trkpt lat="42.804951" lon="-3.715442">
+        <ele>647.0</ele>
+        <extensions>
+        <gpxtpx:TrackPointExtension>
+        <gpxtpx:Extensions>
+            <surface>asphalt</surface>
+        </gpxtpx:Extensions>
+        </gpxtpx:TrackPointExtension>
+        </extensions>
+    </trkpt>
+    <trkpt lat="42.804748" lon="-3.714963">
+        <ele>648.0</ele>
+        <extensions>
+        <gpxtpx:TrackPointExtension>
+        <gpxtpx:Extensions>
+            <surface>asphalt</surface>
+        </gpxtpx:Extensions>
+        </gpxtpx:TrackPointExtension>
+        </extensions>
+    </trkpt>
+    <trkpt lat="42.804484" lon="-3.714542">
+        <ele>647.8</ele>
+    </trkpt>
+    <trkpt lat="42.804409" lon="-3.714483">
+        <ele>646.0</ele>
+    </trkpt>
+    <trkpt lat="42.804335" lon="-3.714402">
+        <ele>644.3</ele>
+    </trkpt>
+    <trkpt lat="42.804184" lon="-3.714195">
+        <ele>640.3</ele>
+    </trkpt>
+    <trkpt lat="42.80402" lon="-3.713929">
+        <ele>641.8</ele>
+    </trkpt>
+    <trkpt lat="42.803971" lon="-3.713771">
+        <ele>643.0</ele>
+    </trkpt>
+    <trkpt lat="42.803895" lon="-3.713525">
+        <ele>645.0</ele>
+    </trkpt>
+    <trkpt lat="42.803759" lon="-3.713246">
+        <ele>645.5</ele>
+    </trkpt>
+    <trkpt lat="42.803529" lon="-3.712842">
+        <ele>645.0</ele>
+    </trkpt>
+    <trkpt lat="42.803415" lon="-3.71269">
+        <ele>642.5</ele>
+    </trkpt>
+    <trkpt lat="42.803289" lon="-3.712589">
+        <ele>639.3</ele>
+    </trkpt>
+    <trkpt lat="42.803213" lon="-3.712542">
+        <ele>639.0</ele>
+    </trkpt>
+    <trkpt lat="42.803161" lon="-3.712521">
+        <ele>638.5</ele>
+    </trkpt>
+    <trkpt lat="42.803125" lon="-3.712495">
+        <ele>638.3</ele>
+    </trkpt>
+    <trkpt lat="42.803112" lon="-3.712417">
+        <ele>641.3</ele>
+    </trkpt>
+    <trkpt lat="42.803086" lon="-3.712362">
+        <ele>643.0</ele>
+    </trkpt>
+    <trkpt lat="42.802989" lon="-3.712205">
+        <ele>647.5</ele>
+    </trkpt>
+    <trkpt lat="42.802906" lon="-3.712106">
+        <ele>649.8</ele>
+    </trkpt>
+    <trkpt lat="42.802809" lon="-3.712019">
+        <ele>651.3</ele>
+    </trkpt>
+    <trkpt lat="42.802739" lon="-3.712004">
+        <ele>650.5</ele>
+    </trkpt>
+    <trkpt lat="42.802666" lon="-3.712004">
+        <ele>649.0</ele>
+    </trkpt>
+    <trkpt lat="42.802584" lon="-3.711918">
+        <ele>650.5</ele>
+    </trkpt>
+    <trkpt lat="42.802524" lon="-3.711872">
+        <ele>650.8</ele>
+    </trkpt>
+    <trkpt lat="42.802356" lon="-3.711811">
+        <ele>652.0</ele>
+    </trkpt>
+    <trkpt lat="42.802279" lon="-3.711796">
+        <ele>652.5</ele>
+    </trkpt>
+    <trkpt lat="42.802201" lon="-3.711804">
+        <ele>652.3</ele>
+    </trkpt>
+    <trkpt lat="42.802102" lon="-3.71183">
+        <ele>651.3</ele>
+    </trkpt>
+    <trkpt lat="42.801945" lon="-3.711853">
+        <ele>650.8</ele>
+    </trkpt>
+    <trkpt lat="42.801817" lon="-3.711903">
+        <ele>649.5</ele>
+    </trkpt>
+    <trkpt lat="42.801627" lon="-3.71203">
+        <ele>646.5</ele>
+    </trkpt>
+    <trkpt lat="42.801546" lon="-3.71206">
+        <ele>645.8</ele>
+    </trkpt>
+    <trkpt lat="42.801443" lon="-3.712116">
+        <ele>644.3</ele>
+    </trkpt>
+    <trkpt lat="42.801279" lon="-3.712169">
+        <ele>643.0</ele>
+    </trkpt>
+    <trkpt lat="42.801183" lon="-3.712179">
+        <ele>642.8</ele>
+    </trkpt>
+    <trkpt lat="42.801022" lon="-3.712169">
+        <ele>642.8</ele>
+    </trkpt>
+    <trkpt lat="42.800943" lon="-3.712193">
+        <ele>642.3</ele>
+    </trkpt>
+    <trkpt lat="42.80089" lon="-3.712215">
+        <ele>641.8</ele>
+    </trkpt>
+    <trkpt lat="42.800703" lon="-3.712292">
+        <ele>641.0</ele>
+    </trkpt>
+    <trkpt lat="42.800471" lon="-3.712338">
+        <ele>640.5</ele>
+    </trkpt>
+    <trkpt lat="42.800389" lon="-3.712326">
+        <ele>640.8</ele>
+    </trkpt>
+    <trkpt lat="42.800119" lon="-3.712312">
+        <ele>641.3</ele>
+    </trkpt>
+    <trkpt lat="42.799993" lon="-3.712291">
+        <ele>641.8</ele>
+    </trkpt>
+    <trkpt lat="42.799922" lon="-3.712292">
+        <ele>641.8</ele>
+    </trkpt>
+    <trkpt lat="42.799836" lon="-3.71232">
+        <ele>641.8</ele>
+    </trkpt>
+    <trkpt lat="42.799792" lon="-3.712325">
+        <ele>641.8</ele>
+    </trkpt>
+    <trkpt lat="42.799575" lon="-3.712281">
+        <ele>643.0</ele>
+    </trkpt>
+    <trkpt lat="42.79945" lon="-3.712287">
+        <ele>643.3</ele>
+    </trkpt>
+    <trkpt lat="42.799388" lon="-3.712325">
+        <ele>643.0</ele>
+    </trkpt>
+    <trkpt lat="42.79932" lon="-3.712386">
+        <ele>642.3</ele>
+    </trkpt>
+    <trkpt lat="42.799287" lon="-3.712425">
+        <ele>641.8</ele>
+    </trkpt>
+    <trkpt lat="42.799245" lon="-3.712513">
+        <ele>640.5</ele>
+    </trkpt>
+    <trkpt lat="42.799202" lon="-3.712675">
+        <ele>639.0</ele>
+    </trkpt>
+    <trkpt lat="42.799179" lon="-3.712774">
+        <ele>638.3</ele>
+    </trkpt>
+    <trkpt lat="42.799198" lon="-3.712863">
+        <ele>637.3</ele>
+    </trkpt>
+    <trkpt lat="42.799182" lon="-3.713012">
+        <ele>636.0</ele>
+    </trkpt>
+    <trkpt lat="42.79914" lon="-3.713139">
+        <ele>635.0</ele>
+    </trkpt>
+    <trkpt lat="42.799018" lon="-3.713236">
+        <ele>635.5</ele>
+    </trkpt>
+    <trkpt lat="42.798752" lon="-3.713479">
+        <ele>637.0</ele>
+    </trkpt>
+    <trkpt lat="42.798658" lon="-3.713578">
+        <ele>637.5</ele>
+    </trkpt>
+    <trkpt lat="42.798525" lon="-3.713768">
+        <ele>637.8</ele>
+    </trkpt>
+    <trkpt lat="42.798431" lon="-3.713885">
+        <ele>638.0</ele>
+    </trkpt>
+    <trkpt lat="42.798394" lon="-3.713966">
+        <ele>637.8</ele>
+    </trkpt>
+    <trkpt lat="42.798355" lon="-3.714087">
+        <ele>637.3</ele>
+    </trkpt>
+    <trkpt lat="42.798295" lon="-3.714243">
+        <ele>637.3</ele>
+    </trkpt>
+    <trkpt lat="42.797971" lon="-3.714734">
+        <ele>640.3</ele>
+    </trkpt>
+    <trkpt lat="42.797882" lon="-3.7149">
+        <ele>641.3</ele>
+    </trkpt>
+    <trkpt lat="42.79777" lon="-3.71506">
+        <ele>642.3</ele>
+    </trkpt>
+    <trkpt lat="42.797713" lon="-3.715102">
+        <ele>642.5</ele>
+    </trkpt>
+    <trkpt lat="42.797705" lon="-3.715107">
+        <ele>642.8</ele>
+    </trkpt>
+    <trkpt lat="42.797637" lon="-3.715137">
+        <ele>643.5</ele>
+    </trkpt>
+    <trkpt lat="42.797525" lon="-3.715253">
+        <ele>643.8</ele>
+    </trkpt>
+    <trkpt lat="42.797418" lon="-3.715389">
+        <ele>644.0</ele>
+    </trkpt>
+    <trkpt lat="42.797364" lon="-3.71544">
+        <ele>644.3</ele>
+    </trkpt>
+    <trkpt lat="42.797265" lon="-3.715511">
+        <ele>644.8</ele>
+    </trkpt>
+    <trkpt lat="42.796996" lon="-3.715761">
+        <ele>646.0</ele>
+    </trkpt>
+    <trkpt lat="42.796922" lon="-3.715801">
+        <ele>646.5</ele>
+    </trkpt>
+    <trkpt lat="42.796876" lon="-3.715809">
+        <ele>647.3</ele>
+    </trkpt>
+    <trkpt lat="42.796737" lon="-3.715785">
+        <ele>649.5</ele>
+    </trkpt>
+    <trkpt lat="42.79654" lon="-3.715806">
+        <ele>652.5</ele>
+    </trkpt>
+    <trkpt lat="42.796471" lon="-3.715845">
+        <ele>653.5</ele>
+    </trkpt>
+    <trkpt lat="42.796336" lon="-3.715946">
+        <ele>655.3</ele>
+    </trkpt>
+    <trkpt lat="42.796252" lon="-3.715988">
+        <ele>656.3</ele>
+    </trkpt>
+    <trkpt lat="42.796185" lon="-3.715989">
+        <ele>657.8</ele>
+    </trkpt>
+    <trkpt lat="42.796134" lon="-3.715977">
+        <ele>658.8</ele>
+    </trkpt>
+    <trkpt lat="42.796095" lon="-3.715981">
+        <ele>659.5</ele>
+    </trkpt>
+    <trkpt lat="42.796023" lon="-3.716051">
+        <ele>660.3</ele>
+    </trkpt>
+    <trkpt lat="42.795903" lon="-3.716121">
+        <ele>661.8</ele>
+    </trkpt>
+    <trkpt lat="42.795806" lon="-3.716192">
+        <ele>662.8</ele>
+    </trkpt>
+    <trkpt lat="42.795547" lon="-3.716302">
+        <ele>664.8</ele>
+    </trkpt>
+    <trkpt lat="42.795465" lon="-3.716346">
+        <ele>665.5</ele>
+    </trkpt>
+    <trkpt lat="42.795261" lon="-3.716343">
+        <ele>668.0</ele>
+    </trkpt>
+    <trkpt lat="42.795169" lon="-3.716361">
+        <ele>669.0</ele>
+    </trkpt>
+    <trkpt lat="42.795034" lon="-3.716371">
+        <ele>670.5</ele>
+    </trkpt>
+    <trkpt lat="42.794851" lon="-3.716419">
+        <ele>671.8</ele>
+    </trkpt>
+    <trkpt lat="42.794767" lon="-3.716427">
+        <ele>672.3</ele>
+    </trkpt>
+    <trkpt lat="42.794718" lon="-3.716439">
+        <ele>672.5</ele>
+    </trkpt>
+    <trkpt lat="42.794617" lon="-3.716487">
+        <ele>672.5</ele>
+    </trkpt>
+    <trkpt lat="42.79459" lon="-3.7165">
+        <ele>672.8</ele>
+    </trkpt>
+    <trkpt lat="42.79448" lon="-3.716484">
+        <ele>673.5</ele>
+    </trkpt>
+    <trkpt lat="42.794429" lon="-3.716495">
+        <ele>673.8</ele>
+    </trkpt>
+    <trkpt lat="42.794312" lon="-3.716559">
+        <ele>674.0</ele>
+    </trkpt>
+    <trkpt lat="42.794189" lon="-3.71657">
+        <ele>674.8</ele>
+    </trkpt>
+    <trkpt lat="42.794027" lon="-3.716627">
+        <ele>675.5</ele>
+    </trkpt>
+    <trkpt lat="42.79391" lon="-3.716635">
+        <ele>676.3</ele>
+    </trkpt>
+    <trkpt lat="42.793854" lon="-3.716658">
+        <ele>676.5</ele>
+    </trkpt>
+    <trkpt lat="42.793727" lon="-3.716761">
+        <ele>677.0</ele>
+    </trkpt>
+    <trkpt lat="42.793531" lon="-3.716872">
+        <ele>677.5</ele>
+    </trkpt>
+    <trkpt lat="42.793437" lon="-3.716909">
+        <ele>678.0</ele>
+    </trkpt>
+    <trkpt lat="42.79334" lon="-3.716927">
+        <ele>678.8</ele>
+    </trkpt>
+    <trkpt lat="42.79316" lon="-3.716927">
+        <ele>680.0</ele>
+    </trkpt>
+    <trkpt lat="42.793044" lon="-3.716943">
+        <ele>680.8</ele>
+    </trkpt>
+    <trkpt lat="42.792952" lon="-3.716977">
+        <ele>681.3</ele>
+    </trkpt>
+    <trkpt lat="42.792872" lon="-3.717018">
+        <ele>681.5</ele>
+    </trkpt>
+    <trkpt lat="42.792759" lon="-3.717102">
+        <ele>681.8</ele>
+    </trkpt>
+    <trkpt lat="42.792501" lon="-3.717268">
+        <ele>682.8</ele>
+    </trkpt>
+    <trkpt lat="42.792404" lon="-3.717331">
+        <ele>683.3</ele>
+    </trkpt>
+    <trkpt lat="42.792247" lon="-3.717425">
+        <ele>684.5</ele>
+    </trkpt>
+    <trkpt lat="42.792192" lon="-3.717433">
+        <ele>685.3</ele>
+    </trkpt>
+    <trkpt lat="42.792133" lon="-3.717415">
+        <ele>686.0</ele>
+    </trkpt>
+    <trkpt lat="42.792047" lon="-3.717358">
+        <ele>687.5</ele>
+    </trkpt>
+    <trkpt lat="42.791896" lon="-3.717275">
+        <ele>689.5</ele>
+    </trkpt>
+    <trkpt lat="42.791728" lon="-3.717305">
+        <ele>691.5</ele>
+    </trkpt>
+    <trkpt lat="42.791592" lon="-3.717285">
+        <ele>692.0</ele>
+    </trkpt>
+    <trkpt lat="42.791392" lon="-3.717303">
+        <ele>691.3</ele>
+    </trkpt>
+    <trkpt lat="42.791348" lon="-3.71729">
+        <ele>691.3</ele>
+    </trkpt>
+    <trkpt lat="42.791238" lon="-3.717206">
+        <ele>691.3</ele>
+    </trkpt>
+    <trkpt lat="42.791086468025085" lon="-3.7170285487144032">
+        <ele>691.4</ele>
+    </trkpt>
+    </trkseg>
+</trk>
+</gpx>
